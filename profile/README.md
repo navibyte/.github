@@ -13,9 +13,10 @@ Navibyte produces **code and solutions**:
 * ✍️ API design
 * 📝 Advancing Open Source
 
-📡 You can also follow tweets by [@navibyte](https://twitter.com/navibyte) (DMs open).
+You can also follow 📡 tweets by [@navibyte](https://twitter.com/navibyte) (DMs
+open).
 
-## :compass: Geospatial tools for Dart
+## Geospatial tools for Dart
 
 ✨ The [geospatial](https://github.com/navibyte/geospatial) code repository with
 geospatial data structures, tools and utilities for [Dart](https://dart.dev/)
